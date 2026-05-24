@@ -1,1 +1,1 @@
-# paq691 es un repositorio de archivos del curos Programacion aplicada a la quimica.
+# paq691 es un repositorio de archivos del curso Programacion aplicada a la quimica.
